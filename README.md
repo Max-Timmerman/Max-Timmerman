@@ -1,4 +1,25 @@
-## Hi there 👋
+## Hi I'm Max 👋
+
+I'm a Software Engineering student at the U-UOAS, and currently learning to write qualitative code, understanding multiple languages!
+
+```json
+{
+  "aboutMe": {
+
+      "name": "Max",
+      "pronouns": ["She", "Her", "Hers"],
+      "age": 17,
+
+      "learned": {
+          "languages": ["Java", "Python", "SQL", "HTML", "CSS", "JS"],
+          "software": ["PostgreSQL", "Apache", "Docker", "NPM"],
+          "operatingSystems": ["Windows 11", "Ubuntu-Server", "Ubuntu"]
+      },
+
+      "lookingToLean": ["Rust", "React", "C-languages"],
+  }
+}
+```
 
 <!--
 **Max-Timmerman/Max-Timmerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
