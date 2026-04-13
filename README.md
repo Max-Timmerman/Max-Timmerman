@@ -10,7 +10,7 @@ I'm a Software Engineering student at the U-UOAS, and currently learning to writ
       "pronouns": ["She", "Her", "Hers"],
       "age": 17,
 
-      "learned": {
+      "proficientIn": {
           "languages": ["Java", "Python", "SQL", "HTML", "CSS", "JS"],
           "software": ["PostgreSQL", "Apache", "Docker", "NPM"],
           "operatingSystems": ["Windows 11", "Ubuntu-Server", "Ubuntu"]
