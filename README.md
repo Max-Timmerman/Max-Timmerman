@@ -1,37 +1,14 @@
-## Hi I'm Max 👋
+## Heya, I'm Max 👋
 
 I'm a Software Engineering student at the U-UOAS, and currently learning to write qualitative code, understanding multiple languages!
+I also learn how to work in SCRUM during these terms, which allows me to become more proficient in my job.
 
-```json
-{
-  "aboutMe": {
+#### What projects I do
+I'm currently doing projects for the university, but sometimes ask friends, or family if they need any tech-work done.  
+Through asking them, I also expand my tech knowledge.  
+Sometimes I'll also think of a project I could do myself, and then possibly create and ship it!
 
-      "name": "Max",
-      "pronouns": ["She", "Her", "Hers"],
-      "age": 17,
-
-      "proficientIn": {
-          "languages": ["Java", "Python", "SQL", "HTML", "CSS", "JS"],
-          "software": ["PostgreSQL", "Apache", "Docker", "NPM"],
-          "operatingSystems": ["Windows 11", "Ubuntu-Server", "Ubuntu"]
-      },
-
-      "lookingToLean": ["Rust", "React", "C-languages"],
-  }
-}
-```
-
-<!--
-**Max-Timmerman/Max-Timmerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Some facts about me :)
+- 🍃 I'm a big fan of nature, and like going on walks!
+- ✨ I like dazzling in some creative things into my every day life
+- 📷 My hobbies are photography, and gaming!
